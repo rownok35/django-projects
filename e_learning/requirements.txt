@@ -1,0 +1,15 @@
+asgiref==3.2.10
+autopep8==1.5.7
+Django==3.1.7
+django-cleanup==5.1.0
+django-crispy-forms==1.11.2
+Pillow==7.1.2
+pycodestyle==2.7.0
+pytz==2019.3
+requests==2.22.0
+sqlparse==0.3.1
+sslcommerz-python==0.0.7
+toml==0.10.2
+waitress==2.0.0
+whitenoise==5.2.0
+
